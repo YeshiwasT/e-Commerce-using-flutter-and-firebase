@@ -1,0 +1,3 @@
+<h1>E-Commerce Flutter and Firebase App </h1>
+<p>
+In this repository you can find a complete e-commerce app, I show you how you can create a nice clean onboarding screen for your e-commerce app that can run both Andriod and iOS devices because it builds with flutter.I have tried to collect all the basic features of any eCommerce App into this application (illustrations included in repository). It uses Flutter Framework for App Frontend and Backend, and Firebase as server maintaining Databases and Storage requirments of the app. It uses Firebase Authentification, Firebase Cloud Firestore, Firebase Storage.</p>
